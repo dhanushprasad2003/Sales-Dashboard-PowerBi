@@ -99,6 +99,8 @@ Transactional sales data:
 
 ## Author
 
+**Dhanush Prasad**  
+[GitHub](https://github.com/dhanushprasad2003)
 
 ## License
 
